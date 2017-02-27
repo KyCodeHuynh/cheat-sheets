@@ -1,0 +1,3 @@
+[submodule "security-cheatsheets"]
+	path = security-cheatsheets
+	url = https://github.com/Snifer/security-cheatsheets
